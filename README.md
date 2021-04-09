@@ -2,8 +2,7 @@
 
 ### Hi there, I'm Jewel -  [DevJewel143][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 
 ## I'm a Student, Programmer, Musician(Guitarist, Toblist, etc.)!!
 
@@ -15,10 +14,6 @@
 
 
 
-### Connect with me:
-
-
-[<img align="left" alt="DevJewel143 | YouTube" width="22px" src="https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA" />][youtube]
 
 
 <br />
@@ -42,8 +37,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
+
 
 
 

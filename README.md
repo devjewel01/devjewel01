@@ -22,11 +22,15 @@
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/DevJewel143)
 
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://github.com/DevJewel143)
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/DevJewel143)
 
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/DevJewel143)
+
+[<img align="left" alt="Raspberry PI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://github.com/DevJewel143)
+
+[<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/DevJewel143)
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/DevJewel143)
 
@@ -58,8 +62,20 @@
 
 ### Online Judge Profile:
 
-- [https://i.pinimg.com/564x/b4/6e/54/b46e546a3ee4d410f961e81d4a8cae0f.jpg](https://codeforces.com/profile/Call_me_DJ)
-- [AtCoder](https://atcoder.jp/users/DevJewel)
+- [**Codefirces**](https://codeforces.com/profile/Call_me_DJ)
+- [**AtCoder**](https://atcoder.jp/users/DevJewel)
+- [**LightOJ**](https://lightoj.com/user/devjewel-cou)
+- [**HackerRank**](https://www.hackerrank.com/DevJewel)
+- [**HackerEarth**](https://www.hackerearth.com/@DevJewel)
+- [**Codechef**](https://www.codechef.com/users/devjewel143)
+- [**SPOJ**](https://www.spoj.com/myaccount/)
+- [**UVa**](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)
+- [**Toph**](https://toph.co/u/DevvJewel)
+- [**Topcoder**](https://arena.topcoder.com/index.html#/u/dashboard)
+- [**Timus**](https://acm.timus.ru/problemset.aspx)
+- [**Project Euler**](https://projecteuler.net/progress)
+- [**Binary Search**](https://binarysearch.com/@/DevJewel)
+- [**Gonitzoggo**](https://gonitzoggo.com/profile/view/devjewelcouict10)
 
 
 

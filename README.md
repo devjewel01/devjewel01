@@ -1,6 +1,6 @@
-# DevJewel
+# **DevJewel**
 
-### Hi there, I'm Jewel -  [DevJewel143](https://github.com/DevJewel143) 👋
+### Hi there, I'm Jewel Nath 👋
 
 
 

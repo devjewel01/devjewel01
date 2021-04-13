@@ -30,8 +30,8 @@
 
 ### Connect with me:
 
-- [<img src="https://img.icons8.com/cute-clipart/128/000000/facebook-new.png"/>](https://www.facebook.com/dev.jewel.5/)
-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/YouTube.svg"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
+- [<img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/>](https://www.facebook.com/dev.jewel.5/)
+- [<img src="https://img.icons8.com/doodle/96/000000/youtube-play--v2.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 
 <br />
 <br />

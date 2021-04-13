@@ -29,14 +29,15 @@
 <br />
 
 ### Connect with me:
--[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Facebook.svg" />](https://www.facebook.com/dev.jewel.5/)
--[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Facebook.svg" />](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
+
+- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Facebook.svg" />](https://www.facebook.com/dev.jewel.5/)
+- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Facebook.svg" />](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 
 <br />
 ### Online Judge:
 
--[Codeforces](https://codeforces.com/profile/Call_me_DJ)
--[AtCoder](https://atcoder.jp/users/DevJewel)
+- [Codeforces](https://codeforces.com/profile/Call_me_DJ)
+- [AtCoder](https://atcoder.jp/users/DevJewel)
 
 
 

@@ -20,9 +20,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/DevJewel143)
+
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" />](https://github.com/DevJewel143)
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/DevJewel143)
+
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/DevJewel143)
+
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/DevJewel143)
+
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/DevJewel143)
+
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
 
 <br />
@@ -30,13 +39,24 @@
 
 ### Connect with me:
 
-[<img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/>](https://www.facebook.com/dev.jewel.5/)
-[<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
+[<img src="https://img.icons8.com/color/96/000000/facebook-circled--v3.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/twitter--v2.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/instagram-new--v2.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/linkedin-circled--v3.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/pinterest--v4.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/whatsapp--v4.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/stackexchange.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/stackoverflow.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/medium-logo.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/wordpress.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/fluent/96/000000/gmail--v2.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/github--v1.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/96/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 
 <br />
 <br />
 
-### Online Judge:
+### Online Judge Profile:
 
 - [Codeforces](https://codeforces.com/profile/Call_me_DJ)
 - [AtCoder](https://atcoder.jp/users/DevJewel)

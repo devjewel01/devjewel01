@@ -4,7 +4,7 @@
 
 
 
-## I'm a Student, Programmer, Musician(Guitarist, Toblist, etc.)!!
+## I'm a Student, Programmer, Musician!!
 
 
 - 🌱 I’m currently sleeping 🤣

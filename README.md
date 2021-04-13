@@ -77,8 +77,6 @@
 - [**Binary Search**](https://binarysearch.com/@/DevJewel)
 - [**Gonitzoggo**](https://gonitzoggo.com/profile/view/devjewelcouict10)
 
-
-
-
-
-
+<br />
+![DevJewel GitHub stats](https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical)
+<br />

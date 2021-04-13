@@ -58,7 +58,7 @@
 
 ### Online Judge Profile:
 
-- ![https://i.pinimg.com/564x/b4/6e/54/b46e546a3ee4d410f961e81d4a8cae0f.jpg](https://codeforces.com/profile/Call_me_DJ)
+- [https://i.pinimg.com/564x/b4/6e/54/b46e546a3ee4d410f961e81d4a8cae0f.jpg](https://codeforces.com/profile/Call_me_DJ)
 - [AtCoder](https://atcoder.jp/users/DevJewel)
 
 

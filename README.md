@@ -30,7 +30,7 @@
 
 ### Connect with me:
 
-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Facebook.svg" />](https://www.facebook.com/dev.jewel.5/)
+- [<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>](https://www.facebook.com/dev.jewel.5/)
 - [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/YouTube.svg" />](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 
 <br />

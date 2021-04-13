@@ -34,7 +34,7 @@
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/DevJewel143)
 
-[<img src="https://img.icons8.com/small/32/000000/github.png"/>](https://github.com/DevJewel143)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>](https://github.com/DevJewel143)
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
 

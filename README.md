@@ -81,6 +81,9 @@
 - <img align="left" alt="DevJewel's GitHub Stats" src="https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical" />
 <br />
 <br />
+<br />
+<br />
+<br/>
 
 ### Operating System:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />

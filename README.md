@@ -125,8 +125,8 @@
 
 ## 🤪My Style:
 
-<img align="left" alt="Presentation Pic" width="290" height="220" src="Jewel/presentation.jpg"  >
-<img align="left" alt="Robot + guitar" width="290" height="220" src="Jewel/best.jpg" >
-<img align="left" alt="Medatation" width="290" height="220" src="Jewel/meditation.jpg" >
+<img align="left" alt="Presentation Pic" width="290" height="200" src="Jewel/presentation.jpg"  >
+<img align="left" alt="Robot+guitar" width="290" height="200" src="Jewel/best.jpg" >
+<img align="left" alt="Medatation" width="290" height="200" src="Jewel/meditation.jpg" >
 
 <br />

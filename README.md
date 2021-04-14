@@ -12,11 +12,8 @@
 - 🥅 2021 Goals: Learning more and more
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
-
-
-
-
 <br />
+
 ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/DevJewel143)
@@ -39,8 +36,8 @@
 
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
 <br />
----
 <br />
+
 ### Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/dev.jewel.5/)
@@ -56,7 +53,7 @@
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](https://www.facebook.com/dev.jewel.5/)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://www.facebook.com/dev.jewel.5/)
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
-----
+
 <br />
 <br />
 
@@ -87,8 +84,8 @@
 <br />
 <br />
 <br />
-
 <br />
+
 ### Operating System:
 1. <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 2. <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -96,8 +93,8 @@
   + <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   + <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <br />
-
 <br />
+
 ### My IDEs/Editor
 <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 <img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>

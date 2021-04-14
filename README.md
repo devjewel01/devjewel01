@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
 <br />
-
+<br />
 ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/DevJewel143)
@@ -37,7 +37,7 @@
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
 <br />
 <br />
-
+<br />
 ### Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/dev.jewel.5/)
@@ -56,7 +56,7 @@
 
 <br />
 <br />
-
+<br />
 ### Online Judge Profile:
 
 - [**Codefirces**](https://codeforces.com/profile/Call_me_DJ)
@@ -73,7 +73,8 @@
 - [**Project Euler**](https://projecteuler.net/progress)
 - [**Binary Search**](https://binarysearch.com/@/DevJewel)
 - [**Gonitzoggo**](https://gonitzoggo.com/profile/view/devjewelcouict10)
-
+<br />
+<br />
 <br />
  <img align="left" alt="DevJewel's GitHub Stats" src="https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical" />
 <br />
@@ -92,6 +93,7 @@
 3. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   + <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   + <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<br />
 <br />
 <br />
 

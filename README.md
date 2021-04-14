@@ -34,13 +34,13 @@
 
 ----
 
-[<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/DevJewel143)
+[<img  align="left" alt="Bash" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/DevJewel143)
 
-[<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="Raspbery Pi" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://github.com/DevJewel143)
 
-[<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/DevJewel143)
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
 
 <br />
 <br />
@@ -102,3 +102,12 @@
 <br />
 <br />
 <br />
+### My IDEs/Editor
+1. <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+2. <img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+3. <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+4. <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<br />
+<br />
+<br />
+

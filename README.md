@@ -125,7 +125,7 @@
 
 ## 🤪My Style:
 
-<img src="Jewel/presentation.jpg" width="300" >
-<img src="Jewel/meditation.jpg" width="300">
-<img src="Jewel/best.jpg" width="300">
+<img align="left" alt="Bash" width="100px" src="Jewel/presentation.jpg"  >
+<img align="left" alt="Bash" width="100px" src="Jewel/meditation.jpg" >
+<img align="left" alt="Bash" width="100px" src="Jewel/best.jpg" >
 

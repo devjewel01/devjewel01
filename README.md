@@ -17,7 +17,6 @@
 
 
 <br />
-----
 ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/DevJewel143)
@@ -39,10 +38,9 @@
 [<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/DevJewel143)
 
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
-----
 <br />
+---
 <br />
-
 ### Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/dev.jewel.5/)
@@ -80,7 +78,6 @@
 - [**Gonitzoggo**](https://gonitzoggo.com/profile/view/devjewelcouict10)
 
 <br />
-----
  <img align="left" alt="DevJewel's GitHub Stats" src="https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical" />
 <br />
 <br />
@@ -90,19 +87,17 @@
 <br />
 <br />
 <br />
+
 <br />
-----
 ### Operating System:
 1. <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 2. <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 3. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   + <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   + <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<br />
 
 <br />
-<br />
-<br />
-----
 ### My IDEs/Editor
 <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 <img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
@@ -110,6 +105,6 @@
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <br />
 <br />
-<br />
-----
+
+
 

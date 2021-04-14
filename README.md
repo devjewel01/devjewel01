@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -39,7 +38,6 @@
 <br />
 ---
 <br />
-<br />
 
 ### Connect with me:
 
@@ -58,7 +56,7 @@
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 
 <br />
-<br />
+---
 <br />
 
 ### Online Judge Profile:
@@ -97,7 +95,6 @@
 3. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   + <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   + <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<br />
 <br />
 <br />
 

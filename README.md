@@ -123,5 +123,9 @@
 <br />
 <br />
 
+## 🤪My Style:
 
+<img src="Jewel/presentation.jpg" width="300" >
+<img src="Jewel/meditation.jpg" width="300">
+<img src="Jewel/best.jpg" width="300">
 

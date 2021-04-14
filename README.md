@@ -17,7 +17,7 @@
 
 
 <br />
-
+----
 ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/DevJewel143)
@@ -32,8 +32,6 @@
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DevJewel143)
 
-----
-
 [<img  align="left" alt="Bash" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/DevJewel143)
 
 [<img align="left" alt="Raspbery Pi" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://github.com/DevJewel143)
@@ -41,7 +39,7 @@
 [<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/DevJewel143)
 
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
-
+----
 <br />
 <br />
 
@@ -60,7 +58,7 @@
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](https://www.facebook.com/dev.jewel.5/)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://www.facebook.com/dev.jewel.5/)
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
-
+----
 <br />
 <br />
 
@@ -82,6 +80,7 @@
 - [**Gonitzoggo**](https://gonitzoggo.com/profile/view/devjewelcouict10)
 
 <br />
+----
  <img align="left" alt="DevJewel's GitHub Stats" src="https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical" />
 <br />
 <br />
@@ -92,22 +91,25 @@
 <br />
 <br />
 <br />
-
+----
 ### Operating System:
 1. <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 2. <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 3. <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   + <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   + <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
 <br />
 <br />
 <br />
+----
 ### My IDEs/Editor
-1. <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
-2. <img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-3. <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-4. <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <br />
 <br />
 <br />
+----
 

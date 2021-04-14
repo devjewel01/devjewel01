@@ -6,7 +6,6 @@
 
 ## I'm a Student, Programmer, Musician!!
 
-
 - 🌱 I’m currently sleeping 🤣
 - 👯 I’m looking to good things for learning
 - 🥅 2021 Goals: Learning more and more
@@ -37,6 +36,8 @@
 
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
 <br />
+<br />
+---
 <br />
 <br />
 

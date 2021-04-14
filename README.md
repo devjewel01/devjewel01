@@ -54,9 +54,8 @@
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](https://www.facebook.com/dev.jewel.5/)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://www.facebook.com/dev.jewel.5/)
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
-
+----
 <br />
----
 <br />
 
 ### Online Judge Profile:

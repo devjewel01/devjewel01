@@ -82,28 +82,18 @@
 <br />
 <br />
 
-### :zap: Recent Activity
-
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+</details>
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+ 
  <img align="left" alt="DevJewel's GitHub Stats" src="https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical" />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+</details>
+
 <br />
 
 ### Operating System:

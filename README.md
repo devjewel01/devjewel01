@@ -11,6 +11,9 @@
 - 🥅 2021 Goals: Learning more and more
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
+
+<img src="https://tenor.com/VhVa.gif" align="right" width="60%" />
+
 <br />
 
 ### Languages and Tools:

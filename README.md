@@ -94,11 +94,11 @@
 <!--END_SECTION:activity-->
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+### :zap: GitHub Stats
  
  <img align="left" alt="DevJewel's GitHub Stats" src="https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical" />
-</details>
+
 
 <br />
 <br />

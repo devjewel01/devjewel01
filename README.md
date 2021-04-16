@@ -1,8 +1,8 @@
 # **DevJewel**
-
 ### Hi there, I'm Jewel Nath 👋
 
-
+<!--lint ignore double-link-->
+<img src="https://tenor.com/brlxU.gif" align="right" width="60%" />
 
 ## I'm a Student, Programmer, Musician!!
 

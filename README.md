@@ -1,8 +1,7 @@
 # **DevJewel**
 ### Hi there, I'm Jewel Nath 👋
 
-<!--lint ignore double-link-->
-<img src="https://tenor.com/brlxU.gif" align="right" width="60%" />
+<img src="Jewel/hi.gif"  align="right" width="256px" />
 
 ## I'm a Student, Programmer, Musician!!
 
@@ -12,7 +11,7 @@
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
 
-<img src="https://tenor.com/VhVa.gif" align="right" width="60%" />
+
 
 <br />
 

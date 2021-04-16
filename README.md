@@ -65,6 +65,8 @@
 <br />
 <br />
 
+<img src="Jewel/code.gif"  align="right" width="524px" />
+
 ### Online Judge Profile:
 
 - [**Codefirces**](https://codeforces.com/profile/Call_me_DJ)
@@ -107,6 +109,8 @@
 <br />
 <br />
 
+<img src="Jewel/funny.gif"  align="right" width="350px" />
+
 ### Operating System:
 1. <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 2. <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -115,6 +119,8 @@
   + <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <br />
 <br />
+
+<img src="Jewel/frastration.gif"  align="right" width="350px" />
 
 ### My IDEs/Editor
 * <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>

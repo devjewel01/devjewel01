@@ -90,7 +90,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DevJewel143/Robot-Rim/pull/3) in [DevJewel143/Robot-Rim](https://github.com/DevJewel143/Robot-Rim)
+1. 🎉 Merged PR [#4](https://github.com/DevJewel143/Robot-Rim/pull/4) in [DevJewel143/Robot-Rim](https://github.com/DevJewel143/Robot-Rim)
 <!--END_SECTION:activity-->
 </details>
 

@@ -69,7 +69,7 @@
 
 ### Online Judge Profile:
 
-- [**Codefirces**](https://codeforces.com/profile/Call_me_DJ)
+- [**Codeforces**](https://codeforces.com/profile/Call_me_DJ)
 - [**AtCoder**](https://atcoder.jp/users/DevJewel)
 - [**LightOJ**](https://lightoj.com/user/devjewel-cou)
 - [**HackerRank**](https://www.hackerrank.com/DevJewel)

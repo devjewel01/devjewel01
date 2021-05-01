@@ -1,7 +1,6 @@
-# **DevJewel**
 ### Hi there, I'm Jewel Nath 👋
 
-<img src="Jewel/hi.gif"  align="right" width="256px" />
+
 
 ## I'm a Student, Programmer, Musician!!
 
@@ -58,7 +57,7 @@
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/14274939/jewel-nath)
 [<img src="https://img.icons8.com/color/48/000000/medium-logo.png"/>](https://medium.com/@devjewel.cou.ict10)
 [<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>](https://github.com/DevJewel143)
-[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](devjewel.cou.ict10@gmail.com)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:devjewel.cou.ict10@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/DevJewel143)
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 ----
@@ -121,7 +120,6 @@
 <br />
 <br />
 
-<img src="Jewel/frastration.gif"  align="right" width="350px" />
 
 ### My IDEs/Editor
 * <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>

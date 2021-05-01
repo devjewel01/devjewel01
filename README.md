@@ -1,8 +1,7 @@
-### Hi there, I'm Jewel Nath 👋
 
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-
-## I'm a Student, Programmer, Musician!!
+### I'm a Student, Programmer, Musician!!
 
 - 🌱 I’m currently sleeping 🤣
 - 👯 I’m looking to good things for learning

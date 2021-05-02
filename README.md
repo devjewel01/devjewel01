@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/DevJewel143/Robot-Leena/pull/6) in [DevJewel143/Robot-Leena](https://github.com/DevJewel143/Robot-Leena)
+1. 💪 Opened PR [#344](https://github.com/ankitdobhal/Awesome-Python-Scripts/pull/344) in [ankitdobhal/Awesome-Python-Scripts](https://github.com/ankitdobhal/Awesome-Python-Scripts)
 <!--END_SECTION:activity-->
 </details>
 

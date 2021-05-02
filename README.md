@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/DevJewel143/Bash-Shell-Script-Store/issues/2) in [DevJewel143/Bash-Shell-Script-Store](https://github.com/DevJewel143/Bash-Shell-Script-Store)
+1. ❗️ Opened issue [#1](https://github.com/DevJewel143/Python-Script-Store/issues/1) in [DevJewel143/Python-Script-Store](https://github.com/DevJewel143/Python-Script-Store)
 <!--END_SECTION:activity-->
 </details>
 

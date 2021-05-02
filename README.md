@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#344](https://github.com/ankitdobhal/Awesome-Python-Scripts/pull/344) in [ankitdobhal/Awesome-Python-Scripts](https://github.com/ankitdobhal/Awesome-Python-Scripts)
+1. ❗️ Opened issue [#2](https://github.com/DevJewel143/Bash-Shell-Script-Store/issues/2) in [DevJewel143/Bash-Shell-Script-Store](https://github.com/DevJewel143/Bash-Shell-Script-Store)
 <!--END_SECTION:activity-->
 </details>
 

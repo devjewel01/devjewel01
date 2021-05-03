@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#590](https://github.com/akshitagit/CPP/pull/590) in [akshitagit/CPP](https://github.com/akshitagit/CPP)
+1. 🗣 Commented on [#1](https://github.com/DevJewel143/Python-Script-Store/issues/1) in [DevJewel143/Python-Script-Store](https://github.com/DevJewel143/Python-Script-Store)
 <!--END_SECTION:activity-->
 </details>
 

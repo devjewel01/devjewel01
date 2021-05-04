@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/devjewel01/Robot_Sheena/issues/1) in [devjewel01/Robot_Sheena](https://github.com/devjewel01/Robot_Sheena)
+1. ❗️ Opened issue [#7](https://github.com/devjewel01/Robot-Leena/issues/7) in [devjewel01/Robot-Leena](https://github.com/devjewel01/Robot-Leena)
 <!--END_SECTION:activity-->
 </details>
 

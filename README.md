@@ -15,29 +15,29 @@
 
 ### Languages and Tools:
 
-[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/DevJewel143)
+[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/devjewel01)
 
-[<img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/DevJewel143)
+[<img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/devjewel01)
 
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/DevJewel143)
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/devjewel01)
 
-[<img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/DevJewel143)
+[<img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/devjewel01)
 
-[<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>](https://github.com/DevJewel143)
+[<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>](https://github.com/devjewel01)
 
-[<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DevJewel143)
+[<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/devjewel01)
 
-[<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>](https://github.com/DevJewel143)
+[<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>](https://github.com/devjewel01)
 
-[<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>](https://github.com/DevJewel143)
+[<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>](https://github.com/devjewel01)
 
-[<img  align="left" alt="Bash" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/DevJewel143)
+[<img  align="left" alt="Bash" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/devjewel01)
 
-[<img align="left" alt="Raspbery Pi" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="Raspbery Pi" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://github.com/devjewel01)
 
-[<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/devjewel01)
 
-[<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/DevJewel143)
+[<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/devjewel01)
 <br />
 <br />
 ---
@@ -55,9 +55,9 @@
 [<img src="https://img.icons8.com/color/48/000000/stackexchange.png"/>](https://stackexchange.com/users/19510983/jewel-nath)
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/14274939/jewel-nath)
 [<img src="https://img.icons8.com/color/48/000000/medium-logo.png"/>](https://medium.com/@devjewel.cou.ict10)
-[<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>](https://github.com/DevJewel143)
+[<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>](https://github.com/devjewel01)
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:devjewel.cou.ict10@gmail.com)
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/DevJewel143)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/devjewel01)
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 ----
 <br />

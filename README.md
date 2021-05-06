@@ -55,7 +55,7 @@
 [<img src="https://img.icons8.com/color/48/000000/stackexchange.png"/>](https://stackexchange.com/users/19510983/jewel-nath)
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/14274939/jewel-nath)
 [<img src="https://img.icons8.com/color/48/000000/medium-logo.png"/>](https://medium.com/@devjewel.cou.ict10)
-[<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>](https://github.com/devjewel01)
+[<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>](https://devjewel01.github.io/)
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:devjewel.cou.ict10@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/devjewel01)
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)

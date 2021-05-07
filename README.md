@@ -93,21 +93,8 @@
 </details>
 
 
-### :zap: GitHub Stats
- 
- <img align="left" alt="DevJewel's GitHub Stats" src="https://github-readme-stats-devjewel143.vercel.app/api?username=DevJewel143&show_icons=true&theme=radical" />
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=devjewel01&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devjewel01&langs_count=5&theme=tokyonight)]()
 
 
 ### Operating System:

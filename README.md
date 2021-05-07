@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/devjewel01/Robot-Leena/issues/7) in [devjewel01/Robot-Leena](https://github.com/devjewel01/Robot-Leena)
+1. 🗣 Commented on [#3](https://github.com/devjewel01/Python-Script-Store/issues/3) in [devjewel01/Python-Script-Store](https://github.com/devjewel01/Python-Script-Store)
 <!--END_SECTION:activity-->
 </details>
 

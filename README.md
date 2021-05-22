@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/devjewel01/Python-Script-Store/issues/3) in [devjewel01/Python-Script-Store](https://github.com/devjewel01/Python-Script-Store)
+1. ❗️ Opened issue [#423](https://github.com/Picovoice/porcupine/issues/423) in [Picovoice/porcupine](https://github.com/Picovoice/porcupine)
 <!--END_SECTION:activity-->
 </details>
 

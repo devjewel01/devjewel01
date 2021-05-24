@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/devjewel01/Robot-Blueberry/pull/9) in [devjewel01/Robot-Blueberry](https://github.com/devjewel01/Robot-Blueberry)
+1. 🎉 Merged PR [#10](https://github.com/devjewel01/Robot-Blueberry/pull/10) in [devjewel01/Robot-Blueberry](https://github.com/devjewel01/Robot-Blueberry)
 <!--END_SECTION:activity-->
 </details>
 

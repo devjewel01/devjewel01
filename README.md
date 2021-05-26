@@ -58,7 +58,7 @@
  [**HackerRank**](https://www.hackerrank.com/DevJewel) |
  [**HackerEarth**](https://www.hackerearth.com/@DevJewel) |
  [**Codechef**](https://www.codechef.com/users/devjewel143)   |
- [**SPOJ**](https://www.spoj.com/myaccount/)      |
+ [**SPOJ**](https://www.spoj.com/myaccount/)      
  [**UVa**](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       |
  [**Toph**](https://toph.co/u/DevvJewel)          |
  [**Topcoder**](https://arena.topcoder.com/index.html#/u/dashboard)    |

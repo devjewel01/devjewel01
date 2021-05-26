@@ -1,15 +1,15 @@
 
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I'm a Student, Programmer, Musician!!
+### I'm a Student, Programmer, Musician!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- 🌱 I’m currently sleeping 🤣
+- 🌱 I’m currently sleeping 🤣 
 - 👯 I’m looking to good things for learning
 - 🥅 2021 Goals: Learning more and more
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
 
-### Languages and Tools:
+### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 [<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/devjewel01)
 [<img  align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/devjewel01)
@@ -23,13 +23,10 @@
 [<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/devjewel01)
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/devjewel01)
 
----
-
-<br>
 <br>
 <br>
 
-### Connect with me:
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/dev.jewel.5/)
 [<img src="https://img.icons8.com/doodle/48/000000/quora--v1.png"/>](https://bn.quora.com/profile/Jewel-Nath)
@@ -93,7 +90,7 @@
 
 <br>
 
-### My IDEs/Editor
+### My IDEs/Editor:
  <img align="left" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
  <img align="left" alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
  <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>

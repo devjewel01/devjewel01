@@ -8,6 +8,8 @@
 - 🥅 2021 Goals: Learning more and more
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
+<br>
+<br>
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
@@ -23,6 +25,7 @@
 [<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/devjewel01)
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/devjewel01)
 
+<br>
 <br>
 <br>
 
@@ -49,37 +52,17 @@
 
 ### Online Judge Profile:
 
- [**Codeforces**](https://codeforces.com/profile/Call_me_DJ) |
- [**AtCoder**](https://atcoder.jp/users/DevJewel)   |
- [**LightOJ**](https://lightoj.com/user/devjewel-cou)  |
- [**HackerRank**](https://www.hackerrank.com/DevJewel) |
- [**HackerEarth**](https://www.hackerearth.com/@DevJewel) |
- [**Codechef**](https://www.codechef.com/users/devjewel143)   |
- [**SPOJ**](https://www.spoj.com/myaccount/)      
- [**UVa**](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       |
- [**Toph**](https://toph.co/u/DevvJewel)          |
- [**Topcoder**](https://arena.topcoder.com/index.html#/u/dashboard)    |
- [**Timus**](https://acm.timus.ru/problemset.aspx)     |
- [**Project Euler**](https://projecteuler.net/progress)|
- [**Binary Search**](https://binarysearch.com/@/DevJewel)|
- [**Gonitzoggo**](https://gonitzoggo.com/profile/view/devjewelcouict10) |
+[![Badge](https://cp-logo.vercel.app/codeforces/Call_me_DJ?logo=true)](https://codeforces.com/profile/Call_me_DJ)  [![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
+
+[![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/DevJewel)  [![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)  [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/devjewel-cou)  [![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)
+
+[![Badge](https://cp-logo.vercel.app/codechef/devjewel143?logo=true)](https://www.codechef.com/users/devjewel143)  [![Badge](https://img.shields.io/badge/Spoj--red)](https://www.spoj.com/myaccount/)  [![Badge](https://img.shields.io/badge/UVa--blue)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       [![Badge](https://img.shields.io/badge/Timus--blueviolet)](https://acm.timus.ru/problemset.aspx)  [![Badge](https://img.shields.io/badge/Top-Coder-critical)](https://arena.topcoder.com/index.html#/u/dashboard) 
+
+[![Badge](https://img.shields.io/badge/Project-Eular-9cf)](https://projecteuler.net/progress)  [![Badge](https://img.shields.io/badge/Gonit-Zoggo-informational)](https://gonitzoggo.com/profile/view/devjewelcouict10) 
 
 ---
 
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/devjewel01/Robot-Blueberry/pull/10) in [devjewel01/Robot-Blueberry](https://github.com/devjewel01/Robot-Blueberry)
-
-
-
-
-<!--END_SECTION:activity-->
-
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=devjewel01&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devjewel01&langs_count=5&theme=tokyonight)]()
-
+<a href="https://devjewel01.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devjewel01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjewel01&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 ### Operating System:
  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -88,6 +71,7 @@
  <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  <img align="left" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 
+<br>
 <br>
 
 ### My IDEs/Editor:

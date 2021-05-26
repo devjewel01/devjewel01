@@ -26,6 +26,8 @@
 ---
 
 <br>
+<br>
+<br>
 
 ### Connect with me:
 
@@ -55,7 +57,7 @@
  [**LightOJ**](https://lightoj.com/user/devjewel-cou)  |
  [**HackerRank**](https://www.hackerrank.com/DevJewel) |
  [**HackerEarth**](https://www.hackerearth.com/@DevJewel) |
- [**Codechef**](https://www.codechef.com/users/devjewel143)   
+ [**Codechef**](https://www.codechef.com/users/devjewel143)   |
  [**SPOJ**](https://www.spoj.com/myaccount/)      |
  [**UVa**](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       |
  [**Toph**](https://toph.co/u/DevvJewel)          |

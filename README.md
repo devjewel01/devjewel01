@@ -1,4 +1,7 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there, I am [Jewel Nath](https://www.facebook.com/dev.jewel.5/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## Glad to see you here!  ![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=devjewel01&repo=devjewel01&countColorcountColor&countColor=%237B1E7A)
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 

@@ -90,8 +90,14 @@
  <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
 <br>
+<br>
+<br>
+
+<details>
+ <summary> :zap: Stargazers </summary>
+ 
+  [![Stargazers repo roster for @devjewel01/devjewel01](https://reporoster.com/stars/devjewel01/devjewel01)](https://github.com/devjewel01/devjewel01/stargazers)
+
+</details>
 
 
-## Stargazers
-
-[![Stargazers repo roster for @devjewel01/devjewel01](https://reporoster.com/stars/devjewel01/devjewel01)](https://github.com/devjewel01/devjewel01/stargazers)

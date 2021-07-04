@@ -58,7 +58,7 @@
 
 ### Online Judge Profile:
 
-[![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
+[![Badge](https://cp-logo.vercel.app/codeforces/Call_me_DJ?logo=true)](https://codeforces.com/profile/Call_me_DJ)  [![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
 
 [![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/DevJewel)
 [![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)  [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/devjewel-cou)  [![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)

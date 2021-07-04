@@ -54,12 +54,14 @@
 ---
 
 <br>
+<img align="right" width="290" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding">
 
 ### Online Judge Profile:
 
-[![Badge](https://cp-logo.vercel.app/codeforces/Call_me_DJ?logo=true)](https://codeforces.com/profile/Call_me_DJ)  [![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
+[![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
 
-[![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/DevJewel)  [![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)  [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/devjewel-cou)  [![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)
+[![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/DevJewel)
+[![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)  [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/devjewel-cou)  [![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)
 
 [![Badge](https://cp-logo.vercel.app/codechef/devjewel143?logo=true)](https://www.codechef.com/users/devjewel143)  [![Badge](https://img.shields.io/badge/Spoj--red)](https://www.spoj.com/myaccount/)  [![Badge](https://img.shields.io/badge/UVa--blue)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       [![Badge](https://img.shields.io/badge/Timus--blueviolet)](https://acm.timus.ru/problemset.aspx)  [![Badge](https://img.shields.io/badge/Top-Coder-critical)](https://arena.topcoder.com/index.html#/u/dashboard) 
 
@@ -67,12 +69,21 @@
 
 ---
 
+
+### Statistics:
+
 <a href="https://devjewel01.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devjewel01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjewel01&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devjewel01&theme=tokyonight" />
 
 ### Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=Robot-Blueberry&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=solarized-light)](https://github.com/devjewel01/Robot-Blueberry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=Robot-Sheena&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=solarized-light)](https://github.com/devjewel01/Robot-Sheena)
+
+### Contributions:
+
+<img src="https://activity-graph.herokuapp.com/graph?username=devjewel01&amp;theme=solarized-light&amp;hide_border=true&amp;area=true" width="70%">
 
 ### Operating System:
  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />

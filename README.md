@@ -69,7 +69,7 @@
 
 ---
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=devjewel01&theme=darkhub" alt="devjewel01" /></a> </p>
+<p> <a><img width="50%" src="https://github-profile-trophy.vercel.app/?username=devjewel01&theme=darkhub" width="50%" /></a> </p>
 
 ### Statistics:
 

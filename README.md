@@ -36,10 +36,10 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
-[<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/dev.jewel.5/)
+[<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/devjewel01/)
 [<img src="https://img.icons8.com/doodle/48/000000/quora--v1.png"/>](https://bn.quora.com/profile/Jewel-Nath)
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/JewelNa83572492)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/devjewel143/)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/devjewel01/)
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png"/>](https://www.linkedin.com/in/jewel-nath-06607b202/)
 [<img src="https://img.icons8.com/color/48/000000/pinterest--v4.png"/>](https://www.pinterest.com/DevJewel143/_saved/)
 [<img src="https://img.icons8.com/color/48/000000/whatsapp--v4.png"/>](https://wa.me/1874280811)

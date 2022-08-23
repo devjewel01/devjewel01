@@ -1,19 +1,44 @@
-# Hello there, I am [Jewel Nath](https://www.facebook.com/dev.jewel.5/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-## Glad to see you here!  ![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=devjewel01&repo=devjewel01&countColorcountColor&countColor=%237B1E7A)
+# Hello there, I am [Jewel Nath](https://jewel.cf/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+
+<p align="left">
+  <a href="https://leetcode.com/DevJewel/">
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/CodeCell">
+    <img src="https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/14274939/jewel-nath">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/devjewel01?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/devjewel01?color=green&logo=github">
+  </a>
+  <a href="https://github.com/devjewel01/">
+    <img src="https://komarev.com/ghpvc/?username=devjewel01" alt="visitors" />
+  </a>
+</p>
+
+
+
+
 
 ### I'm a Student, Programmer, Musician!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 - 🌱 I’m currently working a Robotics Project
 - 👯 I’m looking to good things for learning
-- 🥅 2021 Goals: Learning more and more
+- 🥅 2022 Goals: Learning more and more
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
-<br>
-<br>
+
+
+
+
+
+
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
@@ -29,10 +54,17 @@
 [<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/devjewel01)
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/devjewel01)
 
+
+
+
+
+
+
+
 <br>
 <br>
 <br>
-<br>
+
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
@@ -51,9 +83,13 @@
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/devjewel01)
 [<img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>](https://www.youtube.com/channel/UCfIRjgOdxc79-IYGdxbF7fA)
 
----
 
-<br>
+
+
+
+
+
+
 <img align="right" width="290" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding">
 
 ### Online Judge Profile:
@@ -63,19 +99,34 @@
 [![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/DevJewel)
 [![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)  [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/devjewel-cou)  [![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)
 
-[![Badge](https://cp-logo.vercel.app/codechef/devjewel143?logo=true)](https://www.codechef.com/users/devjewel143)  [![Badge](https://img.shields.io/badge/Spoj--red)](https://www.spoj.com/myaccount/)  [![Badge](https://img.shields.io/badge/UVa--blue)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       [![Badge](https://img.shields.io/badge/Timus--blueviolet)](https://acm.timus.ru/problemset.aspx)  [![Badge](https://img.shields.io/badge/Top-Coder-critical)](https://arena.topcoder.com/index.html#/u/dashboard) 
+[![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/devjewel143)  [![Badge](https://img.shields.io/badge/Spoj--red)](https://www.spoj.com/myaccount/)  [![Badge](https://img.shields.io/badge/UVa--blue)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       [![Badge](https://img.shields.io/badge/Timus--blueviolet)](https://acm.timus.ru/problemset.aspx)  [![Badge](https://img.shields.io/badge/Top-Coder-critical)](https://arena.topcoder.com/index.html#/u/dashboard) 
 
 [![Badge](https://img.shields.io/badge/Project-Eular-9cf)](https://projecteuler.net/progress)  [![Badge](https://img.shields.io/badge/Gonit-Zoggo-informational)](https://gonitzoggo.com/profile/view/devjewelcouict10) 
 
 ---
 
+
+
+
+
+
 <p> <a><img width="50%" src="https://github-profile-trophy.vercel.app/?username=devjewel01&theme=darkhub" width="50%" /></a> </p>
 
-### Statistics:
+<b>⚡ Github Stats</b>
 
 <a href="https://devjewel01.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devjewel01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjewel01&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devjewel01&theme=tokyonight" />
+
+
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/DevJewel?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/light_card.svg" />
+</p>
+
+
 
 ### Project
 
@@ -103,16 +154,5 @@
  <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
 <br>
-<br>
-<br>
-
-
-
-<details>
- <summary> :zap: Stargazers </summary>
- 
-  [![Stargazers repo roster for @devjewel01/devjewel01](https://reporoster.com/stars/devjewel01/devjewel01)](https://github.com/devjewel01/devjewel01/stargazers)
-
-</details>
 
 

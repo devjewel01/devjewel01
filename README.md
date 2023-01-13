@@ -131,6 +131,7 @@
 ### Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=Robot-Blueberry&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=solarized-light)](https://github.com/devjewel01/Robot-Blueberry)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=Robot-Niko&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=solarized-light)](https://github.com/devjewel01/Robot-Niko)
 
 ### Contributions:

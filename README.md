@@ -28,9 +28,9 @@
 
 ### I'm a Student, Programmer, Musician!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- 🌱 I’m currently working a Robotics Project
+- 🌱 Contributing in opensource 
 - 👯 I’m looking to good things for learning
-- 🥅 2022 Goals: Learning more and more
+- 🥅 2023 Goals: Prepare for an Interview
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
 
 
@@ -131,7 +131,7 @@
 ### Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=Robot-Blueberry&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=solarized-light)](https://github.com/devjewel01/Robot-Blueberry)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=AI-Voice-Assistant&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=solarized-light)](https://github.com/devjewel01/AI-Voice-Assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=Robot-Niko&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=solarized-light)](https://github.com/devjewel01/Robot-Niko)
 
 ### Contributions:
 

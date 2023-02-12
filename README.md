@@ -92,6 +92,7 @@
 
 <img align="right" width="290" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding">
 
+
 ### Online Judge Profile:
 
 [![Badge](https://cp-logo.vercel.app/codeforces/Call_me_DJ?logo=true)](https://codeforces.com/profile/Call_me_DJ)  [![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
@@ -122,7 +123,7 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<!--  <img height="273em" src="https://leetcard.jacoblin.cool/DevJewel?theme=wtf&font=Karma&ext=contest" /> -->
+<img height="273em" src="https://leetcard.jacoblin.cool/DevJewel?theme=wtf&font=Karma&ext=contest" /> 
 <img height="280em" src="https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/light_card.svg" />
 </p>
 
@@ -134,9 +135,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjewel01&repo=Robot-Niko&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=solarized-light)](https://github.com/devjewel01/Robot-Niko)
 
-### Contributions:
-
-<img src="https://activity-graph.herokuapp.com/graph?username=devjewel01&amp;theme=solarized-light&amp;hide_border=true&amp;area=true" width="70%">
 
 ### Operating System:
  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />

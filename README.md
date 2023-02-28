@@ -5,9 +5,9 @@
 
 
 <p align="left">
-  <a href="https://leetcode.com/DevJewel/">
+<!--   <a href="https://leetcode.com/jewelnath/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
-  </a>
+  </a> -->
   <a href="https://codeforces.com/profile/CodeCell">
     <img src="https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>

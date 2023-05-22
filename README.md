@@ -1,4 +1,4 @@
-# Hello there, I am [Jewel Nath](https://jewel.cf/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there, I am [Jewel Nath](https://jewelnath.me/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 

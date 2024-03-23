@@ -9,7 +9,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a> -->
   <a href="https://codeforces.com/profile/CodeCell">
-    <img src="https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/max_rating.svg" alt="CF rating" />
   </a>
   <a href="https://stackoverflow.com/users/14274939/jewel-nath">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
@@ -28,11 +28,10 @@
 
 ### I'm a Student, Programmer, Musician!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- 🌱 Contributing in opensource 
-- 👯 I’m looking to good things for learning
-- 🥅 2023 Goals: Prepare for an Interview
+- 🌱 Contributing in opensource.
+- 👯 Making Some Awesome DIY Robotics Project.
+- 🥅 2024 Goals: Prepare for an Coding Interview
 - ⚡ Fun fact: I love to thinking, imagin, draw and play guitar / drums / tobla
-
 
 
 
@@ -95,7 +94,7 @@
 
 ### Online Judge Profile:
 
-[![Badge](https://cp-logo.vercel.app/codeforces/Call_me_DJ?logo=true)](https://codeforces.com/profile/Call_me_DJ)  [![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
+[![Badge](https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/CodeCell)  [![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
 
 [![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/DevJewel)
 [![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)  [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/devjewel-cou)  [![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)
